@@ -5,5 +5,5 @@ miaw
 ## Todo
 
 - OK - gallery component
-- gallery image component
+- OK - gallery image component
 - page layout components
