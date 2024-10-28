@@ -6,4 +6,4 @@ miaw
 
 - OK - gallery component
 - OK - gallery image component
-- page layout components
+- OK - page layout components
