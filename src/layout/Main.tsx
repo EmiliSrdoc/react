@@ -4,7 +4,7 @@ export default function Main() {
   return (
     <main>
       <h2>My first line of code</h2>
-      <p>Hey</p>
+      <p>Hey everyone</p>
       <h2>My dogs</h2>
       <p>
         they went for a walk they went for a walk they went for a walk they went
