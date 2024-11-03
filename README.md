@@ -9,3 +9,4 @@ miaw
 - OK - page layout components
 - OK - list of gallery images
 - OK - cats API
+- OK - deploy app to heroku
