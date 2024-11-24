@@ -5,7 +5,6 @@ import GalleryCard from "./GalleryCard";
 export default function Gallery() {
   const mockCats = useMockCats();
   const apiCats = useApiCats();
-
   return (
     <div id="gallery">
       {mockCats.map((imageCard) => (

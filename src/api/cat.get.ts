@@ -42,13 +42,13 @@ const imageCards: ImageCard[] = [
   {
     link: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pawlicy.com%2Fblog%2Fcat-photos-for-monday%2F&psig=AOvVaw0mPaDX-fnDBU2d4AzC6TBK&ust=1728567983275000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiWoda3gYkDFQAAAAAdAAAAABAE",
     image: CatImage,
-    title: "Cat 1",
+    title: "Alex",
   },
   {
     link: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fcute-cat&psig=AOvVaw0mPaDX-fnDBU2d4AzC6TBK&ust=1728567983275000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiWoda3gYkDFQAAAAAdAAAAABAJ",
     image:
       "https://img.freepik.com/premium-photo/kitten-with-pink-nose-pink-nose-is-looking-up_1034036-94165.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1728345600&semt=ais_hybrid",
-    title: "Cat 2",
+    title: "Garry",
   },
   {
     link: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fcute-cat&psig=AOvVaw0POJq9lfGmC7_8qWO4MQTN&ust=1728568772005000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiDv9O6gYkDFQAAAAAdAAAAABAE",
